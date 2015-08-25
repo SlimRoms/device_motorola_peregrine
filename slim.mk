@@ -6,3 +6,5 @@ $(call inherit-product, device/motorola/peregrine/full_peregrine.mk)
 
 PRODUCT_RELEASE_NAME := peregrine
 PRODUCT_NAME := slim_peregrine
+
+PRODUCT_GMS_CLIENTID_BASE := android-motorola
